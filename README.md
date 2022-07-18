@@ -5,5 +5,10 @@ You reached the end of your front-end development journey, today you are going t
 - work individually.
 - at least 5 Components in the project.
 - at least 4 pages/routes in the project.
-- make use of bootstrap when styling your project.
+- make use of bootstrap or Chakra UI when styling your project.
 - do not forget to use `State` concept and `Component Lifecycle` methods.
+
+
+##Bonus
+- Deployment.
+- Third Party API.
