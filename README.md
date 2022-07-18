@@ -9,6 +9,6 @@ You reached the end of your front-end development journey, today you are going t
 - do not forget to use `State` concept and `Component Lifecycle` methods.
 
 
-##Bonus
+## Bonus
 - Deployment.
 - Third Party API.
